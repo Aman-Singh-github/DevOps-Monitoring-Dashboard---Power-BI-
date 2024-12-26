@@ -1,4 +1,4 @@
-# DevOps Monitoring Dashboard
+# DevOps Monitoring Dashboard - https://app.powerbi.com/groups/me/reports/71c408f6-186a-4dd1-aabf-0d2ec41beb62/9a88f3f9904d5915025a?experience=power-bi
 This repository contains a Power BI dashboard for monitoring DevOps activities. The dashboard leverages data from Azure DevOps and provides insights into project health, progress, and areas requiring attention.
 
 # Project Overview
